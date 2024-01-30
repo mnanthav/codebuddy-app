@@ -1,0 +1,36 @@
+/*=============================================================================
+File: Navbar.module.css
+-------------------------------------------------------------------------------
+Description: styling for navigation bar
+=============================================================================*/
+
+.nav {
+    background-color: rgba(39, 134, 211, 0.918);
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+
+.navLogo {
+    color: white;
+}
+
+/*
+.navLink {
+
+}
+
+.navbarContainer {
+
+}
+
+.navLogo {
+
+}
+
+.navDropdown {
+
+}
+
+.navDropdownItem {
+
+} */
